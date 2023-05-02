@@ -1,5 +1,6 @@
 package ch.zhaw.stammnoa.mdm_two;
 
+import ch.zhaw.stammnoa.mdm_two.model.SsdModel;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
